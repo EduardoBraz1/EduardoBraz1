@@ -1,4 +1,4 @@
-## Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução😄💻
+## Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução
 
 <h3 align="center">Contato<h3>
   
