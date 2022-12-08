@@ -1,4 +1,4 @@
-<h2 align="center">Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução</h2>
+<h2 align="center">Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução😃💻</h2>
 <h3 align="center">Contato<h3>
   
 <div align="center"style="display: inline_block">
