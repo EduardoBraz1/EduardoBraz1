@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá eu sou a Eduardo Braz, desenvolvedor front-end em busca da minha primeira oportunidade na área.
 
 <div align="center">
   <a href="https://github.com/EduardoBraz1">
