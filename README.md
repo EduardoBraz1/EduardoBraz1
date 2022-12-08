@@ -1,6 +1,6 @@
 ## Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução 😄💻
 
-### Contato
+<h2 align="center">Contato<h2>
 
 <div align="center">
   <a href="https://github.com/EduardoBraz1">
