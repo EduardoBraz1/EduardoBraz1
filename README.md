@@ -1,5 +1,10 @@
 ## Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução 😄💻
-  
+
+<details align="center">
+  <summary>Clique aqui para exibir</summary>
+  texto oculto
+</details>
+
 <div align="center">
   <a href="https://github.com/EduardoBraz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBraz1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
