@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Snake animation](https://github.com/EduardoBraz1/EduardoBraz1/blob/main/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <!--
 **EduardoBraz1/EduardoBraz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
