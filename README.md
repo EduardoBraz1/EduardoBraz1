@@ -2,10 +2,12 @@
 
 <h3 align="center">Contato<h3>
   
-<div align="center"> 
+<div align="center"style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/eduardo-s-8b0210161/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="esb1106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-<div align="center">
+  
+<div align="center"><br>
   <a href="https://github.com/EduardoBraz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBraz1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBraz1&layout=compact&langs_count=7&theme=vue-dark"/>
