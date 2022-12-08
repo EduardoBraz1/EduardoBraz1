@@ -1,5 +1,7 @@
-#### Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em busca da minha primeira oportunidade na área. 😄💻
-
+<div align="center">
+  #### Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em busca da minha primeira oportunidade na área. 😄💻
+</div>
+  
 <div align="center">
   <a href="https://github.com/EduardoBraz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBraz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
