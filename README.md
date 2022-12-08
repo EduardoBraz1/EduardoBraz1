@@ -1,6 +1,4 @@
-<div align="center">
-  #### Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em busca da minha primeira oportunidade na área. 😄💻
-</div>
+# Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em busca da minha primeira oportunidade na área. 😄💻
   
 <div align="center">
   <a href="https://github.com/EduardoBraz1">
