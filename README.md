@@ -1,5 +1,6 @@
 ### Hi there 👋
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif]
+(https://github.com/EduardoBraz/EduardoBraz1/blob/output/github-contribution-grid-snake.gif)
 <!--
 **EduardoBraz1/EduardoBraz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
