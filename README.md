@@ -1,7 +1,7 @@
 ## Olá me chamo Eduardo Braz, sou um desenvolvedor Front-end em constante evolução 😄💻
 
 <details align="center"><br>
-  <summary> **Contato** </summary>
+  **<summary>Contato</summary>**
   texto oculto
 </details>
 
