@@ -9,8 +9,8 @@
   
 <div align="center"><br>
   <a href="https://github.com/EduardoBraz1">
-  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoBraz1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBraz1&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img width="45%" height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoBraz1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBraz1&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
 <h3 align="center">Habilidades<h3>
